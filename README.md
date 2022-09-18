@@ -44,5 +44,5 @@ The dataset was obtained through web scraping from Amazon.
 More than 1700 books were scraped, fetching the most important information for each book.
 Duplicated were deleted, each column has been formatted and made easy to use for data analysis purposes.
 Links with a lot of missing values were deleted, and in some cases, were filled with an appropriate value based on the column. Therefore, the total number of books passed from 1788 to 946. 
-<br>
+
 [Here](https://github.com/Iron486/Amazon-Books-Web-Scraping/tree/main/spiders), you can find all the notebooks (in .ipynb) I used to scrape and clean the data.
