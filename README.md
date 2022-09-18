@@ -5,8 +5,8 @@
 
 
 The dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning and machine learning. <br>
-You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books).
-There are 18 columns:
+You can find this dataset on [Kaggle](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books) or directly [here](https://github.com/Iron486/Amazon-Books-Web-Scraping/blob/main/spiders/final_book_dataset_kaggle.csv).
+It includes 18 columns:
 
 
 - **title**: title of the book
