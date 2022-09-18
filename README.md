@@ -5,7 +5,7 @@
 
 
 The dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning and machine learning. <br>
-You can find this dataset on [Kaggle](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books) or directly [here](https://github.com/Iron486/Amazon-Books-Web-Scraping/blob/main/spiders/final_book_dataset_kaggle.csv).
+You can find this dataset on [Kaggle](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books) or directly [here](https://github.com/Iron486/Amazon-Books-Web-Scraping/blob/main/spiders/final_book_dataset_kaggle.csv). <br>
 It includes 18 columns:
 
 
@@ -43,4 +43,5 @@ The dataset was obtained through web scraping from Amazon.
 
 More than 1700 books were scraped, fetching the most important information for each book.
 Duplicated were deleted, each column has been formatted and made easy to use for data analysis purposes.
-Links with a lot of missing values were deleted, and in some cases, were filled with an appropriate value based on the column. Therefore, the total number of books passed from 1788 to 946.
+Links with a lot of missing values were deleted, and in some cases, were filled with an appropriate value based on the column. Therefore, the total number of books passed from 1788 to 946. <br>
+[Here](https://github.com/Iron486/Amazon-Books-Web-Scraping/tree/main/spiders), you can find all the notebooks (in .ipynb) I used to scrape and clean the data.
