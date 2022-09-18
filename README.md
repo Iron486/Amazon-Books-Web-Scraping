@@ -28,7 +28,7 @@ It includes 18 columns:
 - **link**: link of the Amazon book
 - **complete_link**: complete link of the Amazon book (including the domain `https://amazon.com`)
 
-###  **Inspiration**
+##  **Inspiration**
 
 You can perform an exploratory data analysis of the dataset, working with `Pandas` or `Numpy`.
 Interesting visualizations can be performed too using, for instance, Python libraries to plot the different features.
@@ -37,7 +37,7 @@ Moreover, you can also rank the books based on the number of positive reviews or
 
 **Remember to star the repository if you found the dataset useful :)**.
 
-###  **Collection methodology**
+##  **Collection methodology**
 
 The dataset was obtained through web scraping from Amazon.
 
