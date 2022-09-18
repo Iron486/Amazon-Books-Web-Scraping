@@ -1,10 +1,11 @@
 # Amazon Books Web Scraping
- Amazon most popular data science related books with Scrapy
+ [Amazon most popular data science related books dataset](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books).
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6372737%2Fc913ddc103f20c3668a67eda7a92336b%2Famazon-text-books.jpg?generation=1663537491733005&alt=media)
 
 
-The dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning and machine learning.
+The dataset contains 946 books obtained from scraping [Amazon](https://www.amazon.com) books related to data science, statistics, data analysis, Python, deep learning and machine learning. <br>
+You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books).
 There are 18 columns:
 
 
